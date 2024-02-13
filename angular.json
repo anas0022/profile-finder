@@ -91,10 +91,15 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/ExampleJS1.js"
+           ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "1208a362-2b90-43bf-a44d-12ace8046e1c"
   }
 }
