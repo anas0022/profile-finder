@@ -89,14 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
               <p class="p1">No data available
            </p><br><p class="p2">Try Again...
            </p>
-              </div> 
-                  <div class="back-button20">
-                      <button class="back" onclick='
-                          document.getElementById("search_container").style.transform="translateX(0vw)";
-                          document.getElementById("profile_name").style.transform="translateX(110vw)";
-                      '>Search Again...</button>
-                  </div>
-                 </div>
+              </div>
                   <div class="back-button20">
                       <button class="back" onclick='
                           document.getElementById("search_container").style.transform="translateX(0vw)";
