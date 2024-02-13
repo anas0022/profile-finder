@@ -340,12 +340,14 @@ cursor: pointer;
         font-size: 8vw;
     }
     .input_items input{
-        height:6vw;
+        height:8vw;
         font-size: 2.3vw;
+      width:80%;
     }
     .input_button{
-        height :6vw;
+        height :8vw;
         font-size: 2.6vw;
+      width:20%;
     } 
     .profile{
         height: 55vw;
@@ -367,12 +369,14 @@ cursor: pointer;
         font-size: 8vw;
     }
     .input_items input{
-        height:6vw;
+        height:8vw;
         font-size: 2.3vw;
+      width:80%;
     }
     .input_button{
-        height :6vw;
+        height :8vw;
         font-size: 2.6vw;
+      width:20%;
     }
     .profile{
         height: 90vw;
@@ -433,12 +437,14 @@ cursor: pointer;
         font-size: 8vw;
     }
     .input_items input{
-        height:6vw;
+        height:8vw;
         font-size: 2.3vw;
+      width:80%;
     }
     .input_button{
-        height :6vw;
+        height :8vw;
         font-size: 2.6vw;
+      width:20%;
     }
   
     .back{
